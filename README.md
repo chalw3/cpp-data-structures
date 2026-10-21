@@ -4,3 +4,6 @@ My C++ from CBU Year 2.
 - Stack
 - Queue
 - Linked List
+### How to run:
+g++ Stack/stack.cpp -o stack
+./stack
