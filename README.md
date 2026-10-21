@@ -1,2 +1,6 @@
-# cpp-data-structures
-My C++ implementations of Stack,Queue, Linked List for CBU Data Structures
+# C++ Data Structures
+My C++ from CBU Year 2.
+### What's inside:
+- Stack
+- Queue
+- Linked List
